@@ -1,0 +1,101 @@
+@media only screen and (max-width: 600px) {
+body{
+	margin:7%;
+	padding:5%;
+	background: url(bg.jpg) no-repeat;
+	background-size: 300%;
+}
+
+.title {
+	color: white;
+	font-style:bold;
+	font-size:27px;
+	text-align:center;
+	font-style:monospace;
+	
+
+}
+.title1 {
+	color: black;
+	border:1px solid #cf6e00;
+	border-radius:10px;
+	background-color:#cf6e00;
+	font-style:bold;
+	font-size:16px;
+	text-align:center;
+	font-style:monospace;
+	
+
+}
+
+legend{
+	color:purple;
+	font-style:italic;
+	font-size:27px;
+	border:1px solid purple;
+	text-align:left;
+	border-radius:30px;
+}
+.input1{
+	border: 1px solid #ba9fe3;
+	border-radius:50px;
+	width:150px;
+	text-align:center;
+	background-color:#ba9fe3;
+
+	
+}
+.input2{
+	border-radius:70px;
+	width:100px;
+	border:2px solid green;
+	background:#6ded85;
+	
+}
+.input3{
+	border-radius:70px;
+	width:100px;
+	border:2px solid red;
+	background:red;
+	
+}
+
+fieldset{
+	border:0px solid green;
+
+}
+.a{
+	color:white;
+	font-style:italic;
+	font-size:10px;
+}
+.a1{
+	color:#34abeb;
+	font-style:italic;
+	font-size:10px;
+}
+label{
+	color:#f1edff;
+	font-size:13px;
+}
+footer{
+	color:gray;
+	font-size:9px;
+	
+}
+.radio{
+	color:red;
+	
+}
+.radio1{
+	color:#ba9fe3;
+	font-style:italic;
+	
+}
+img{
+	width:40px;
+	height:25px;
+	margin:0%;
+	padding:0%;
+}
+}
